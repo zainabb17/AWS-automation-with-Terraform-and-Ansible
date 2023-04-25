@@ -37,7 +37,7 @@ I documented the configuration changes made by Terraform and Ansible, including 
 
 Step 7: Maintenance and Monitoring
 
-I set up monitoring and alerting tools, such as Prometheus and Grafana, to monitor the health and performance of the EC2 instance and the web applications running on it.
+I set up monitoring and alerting tools, such as  Grafana, to monitor the health and performance of the EC2 instance and the web applications running on it.
 I established a regular maintenance schedule to apply security patches, updates, and backups to the EC2 instance.
 I participated in a rotating on-call schedule to ensure 24/7 availability of the development environment and promptly addressed any issues or incidents that occurred.
 Overall, this project involved using Terraform for provisioning the EC2 instance on AWS and Ansible for configuring the instance according to the defined requirements.
